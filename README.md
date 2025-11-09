@@ -19,6 +19,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String
 |  |
@@ -86,4 +87,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
