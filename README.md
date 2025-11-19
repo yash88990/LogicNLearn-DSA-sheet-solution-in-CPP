@@ -9,6 +9,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
@@ -25,6 +26,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String
@@ -46,6 +48,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -113,4 +116,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
