@@ -137,5 +137,6 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
