@@ -77,6 +77,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Depth-First Search
 |  |
 | ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -145,4 +146,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1148-article-views-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
