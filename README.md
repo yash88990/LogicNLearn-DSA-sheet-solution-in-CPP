@@ -37,6 +37,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
@@ -150,4 +151,12 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
