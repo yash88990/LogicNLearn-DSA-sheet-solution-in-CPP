@@ -9,6 +9,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -57,6 +58,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -108,6 +110,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
