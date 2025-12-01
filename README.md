@@ -11,6 +11,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -53,6 +54,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -104,6 +106,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Binary Search
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
@@ -139,6 +142,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Sorting
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
