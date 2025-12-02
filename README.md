@@ -174,4 +174,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
