@@ -62,6 +62,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -170,6 +171,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
@@ -183,6 +185,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Geometry
