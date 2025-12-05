@@ -19,6 +19,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -124,6 +125,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
 ## Stack
