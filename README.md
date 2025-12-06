@@ -21,6 +21,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
@@ -54,6 +55,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -118,6 +121,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +130,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Math
 |  |
 | ------- |
@@ -198,4 +203,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
