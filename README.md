@@ -36,6 +36,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -135,6 +136,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
@@ -155,6 +157,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Sorting
 |  |
