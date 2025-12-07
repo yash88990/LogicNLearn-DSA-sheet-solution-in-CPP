@@ -134,6 +134,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0007-reverse-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
