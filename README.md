@@ -21,6 +21,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -146,6 +147,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
 ## Stack
 |  |
@@ -218,4 +220,12 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
