@@ -139,6 +139,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0007-reverse-integer](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
