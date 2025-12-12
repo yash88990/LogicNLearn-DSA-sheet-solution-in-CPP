@@ -180,6 +180,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Database
@@ -238,4 +239,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
