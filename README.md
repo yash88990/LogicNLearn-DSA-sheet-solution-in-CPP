@@ -26,6 +26,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -55,6 +56,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3531-count-covered-buildings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -177,6 +180,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
