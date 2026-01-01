@@ -6,6 +6,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -182,6 +183,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0223-rectangle-area) |
