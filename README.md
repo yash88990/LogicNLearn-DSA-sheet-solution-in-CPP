@@ -7,6 +7,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -188,6 +189,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
@@ -254,6 +256,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
