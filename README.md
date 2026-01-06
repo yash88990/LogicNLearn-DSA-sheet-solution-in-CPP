@@ -140,6 +140,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -148,6 +149,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3863-power-grid-maintenance) |
@@ -258,6 +260,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
@@ -309,4 +312,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
