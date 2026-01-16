@@ -32,6 +32,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -123,6 +124,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
@@ -345,4 +347,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
