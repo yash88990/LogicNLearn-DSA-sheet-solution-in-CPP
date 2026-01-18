@@ -20,6 +20,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2054-two-best-non-overlapping-events) |
@@ -59,6 +60,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -203,6 +205,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2625-increment-submatrices-by-one) |
