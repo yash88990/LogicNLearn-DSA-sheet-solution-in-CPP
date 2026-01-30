@@ -37,6 +37,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -100,6 +101,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -114,6 +116,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -395,10 +398,16 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
