@@ -39,6 +39,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -291,6 +292,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [2141-maximum-running-time-of-n-computers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3531-count-covered-buildings) |
@@ -391,6 +393,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
