@@ -103,6 +103,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -118,6 +119,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -279,6 +281,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
