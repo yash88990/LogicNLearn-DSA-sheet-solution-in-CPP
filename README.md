@@ -103,6 +103,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -311,6 +312,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2054-two-best-non-overlapping-events) |
@@ -407,6 +409,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3721-longest-balanced-subarray-ii) |
