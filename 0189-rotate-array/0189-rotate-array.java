@@ -1,30 +1,26 @@
+
 class Solution {
-
-    public void rotate(int[] nums, int k) {
-
-        int n = nums.length;
-        k = k % n;
-
-        // reverse whole array
-        reverse(nums, 0, n - 1);
-
-        // reverse first k elements
-        reverse(nums, 0, k - 1);
-
-        // reverse remaining elements
-        reverse(nums, k, n - 1);
-    }
-
-    // helper function for reversing array
-    private void reverse(int[] nums, int start, int end) {
-
-        while (start < end) {
+    private void reverse_array(int[] nums , int start , int end){
+        while(start < end){
             int temp = nums[start];
             nums[start] = nums[end];
             nums[end] = temp;
-
             start++;
             end--;
         }
+        
+    }
+
+    public void rotate(int[] nums, int k) {
+        int n = nums.length;
+        k %= n;
+        //step 1 :- reverse whole array
+        reverse_array(nums , 0 , n  -1);
+        //step 2 :- reverse index 0 to k-1
+        reverse_array(nums , 0 , k -1);
+        //step 3 :- reverse index k to n
+        reverse_array(nums , k , n -1);
     }
 }
+
+
