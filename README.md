@@ -8,6 +8,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
@@ -316,6 +317,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | ------- |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
