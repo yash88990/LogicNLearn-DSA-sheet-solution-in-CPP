@@ -6,6 +6,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
@@ -312,6 +313,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -359,6 +361,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
