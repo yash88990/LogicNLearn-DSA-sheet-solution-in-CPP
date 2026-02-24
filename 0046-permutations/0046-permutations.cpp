@@ -1,19 +1,22 @@
-#include <algorithm>
-
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        
-        vector<vector<int>> ans;
-
-        // Step 1: sort to start from smallest permutation
-        sort(nums.begin(), nums.end());
-
-        // Step 2: keep generating permutations
-        do {
+    void solve(vector<int>nums , vector<vector<int>>&ans , int index){
+        //base case
+        if(index >= nums.size()){
             ans.push_back(nums);
-        } while(next_permutation(nums.begin(), nums.end()));
+            return;
+        }
+        for(int i = index ; i < nums.size() ; i++){
 
+        
+        swap(nums[i] , nums[index]);
+        solve(nums , ans , index + 1 );
+        swap(nums[i] , nums[index]);
+        }
+    }
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>>ans;
+        solve(nums ,ans , 0);
         return ans;
     }
 };
