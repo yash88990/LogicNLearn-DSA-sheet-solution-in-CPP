@@ -9,6 +9,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
@@ -128,6 +129,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +153,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
