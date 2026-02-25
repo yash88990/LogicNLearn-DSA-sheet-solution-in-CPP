@@ -6,6 +6,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
@@ -149,6 +150,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -377,6 +379,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
