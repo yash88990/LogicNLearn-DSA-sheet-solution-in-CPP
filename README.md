@@ -13,6 +13,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -356,6 +357,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -501,6 +503,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0401-binary-watch) |
 ## Rolling Hash
 |  |
