@@ -1,6 +1,6 @@
 class Solution {
     private:
-    void solve(vector<int> nums , vector<int> output , int index , vector<vector<int>> &ans){
+    void solve(vector<int> nums , vector<int> &output , int index , vector<vector<int>> &ans){
         if(index >= nums.size()){
             ans.push_back(output);
             return ;
@@ -11,6 +11,7 @@ class Solution {
         int element = nums[index];
         output.push_back(element);
         solve(nums , output , index + 1 , ans);
+        output.pop_back();
 
     }
 public:
