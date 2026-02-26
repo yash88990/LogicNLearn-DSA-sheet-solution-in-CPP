@@ -12,6 +12,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
