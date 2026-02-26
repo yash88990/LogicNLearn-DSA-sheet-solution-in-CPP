@@ -20,6 +20,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -177,6 +178,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -341,6 +343,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -449,6 +452,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1382-balance-a-binary-search-tree) |
@@ -519,6 +523,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Union-Find
 |  |
