@@ -1,0 +1,32 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int n = prices.length;
+        if (n < 2) return 0;
+
+        // Arrays to store max profit up to each day
+        int[] leftProfit = new int[n];
+        int[] rightProfit = new int[n];
+
+        // Step 1: Calculate leftProfit (forward pass)
+        int minPrice = prices[0];
+        for (int i = 1; i < n; i++) {
+            minPrice = Math.min(minPrice, prices[i]);
+            leftProfit[i] = Math.max(leftProfit[i - 1], prices[i] - minPrice);
+        }
+
+        // Step 2: Calculate rightProfit (backward pass)
+        int maxPrice = prices[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            maxPrice = Math.max(maxPrice, prices[i]);
+            rightProfit[i] = Math.max(rightProfit[i + 1], maxPrice - prices[i]);
+        }
+
+        // Step 3: Combine both profits
+        int maxProfit = 0;
+        for (int i = 0; i < n; i++) {
+            maxProfit = Math.max(maxProfit, leftProfit[i] + rightProfit[i]);
+        }
+
+        return maxProfit;
+    }
+}
