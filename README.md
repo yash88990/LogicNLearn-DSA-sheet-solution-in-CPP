@@ -15,6 +15,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -168,6 +169,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
@@ -510,4 +512,8 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
