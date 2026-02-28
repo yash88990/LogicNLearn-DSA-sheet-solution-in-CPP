@@ -105,6 +105,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -309,6 +310,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1015-smallest-integer-divisible-by-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/2288-count-operations-to-obtain-zero) |
@@ -372,6 +374,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
