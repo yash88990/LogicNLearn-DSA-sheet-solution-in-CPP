@@ -13,6 +13,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
@@ -89,6 +90,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -102,6 +104,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
