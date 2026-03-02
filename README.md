@@ -9,6 +9,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0011-container-with-most-water](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
@@ -91,6 +92,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
@@ -182,6 +184,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
@@ -518,6 +521,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0401-binary-watch) |
