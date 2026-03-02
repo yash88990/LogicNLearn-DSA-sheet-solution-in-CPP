@@ -17,6 +17,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -276,6 +278,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
