@@ -15,6 +15,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0057-insert-interval](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -180,6 +182,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0169-majority-element) |
