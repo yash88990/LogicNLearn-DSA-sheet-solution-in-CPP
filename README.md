@@ -12,6 +12,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 | [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
@@ -94,6 +95,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0074-search-a-2d-matrix) |
@@ -311,6 +313,7 @@ This repository contains complete and structured solutions to the LogicNLearn DS
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/yash88990/LogicNLearn-DSA-sheet-solution-in-CPP/tree/master/0172-factorial-trailing-zeroes) |
